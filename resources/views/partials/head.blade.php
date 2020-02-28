@@ -1,5 +1,5 @@
 <head>
-    <title>Hello World</title>
+    <title>Ecovida</title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">

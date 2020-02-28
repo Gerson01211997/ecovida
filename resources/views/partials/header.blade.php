@@ -15,7 +15,7 @@
                             <li><a href="/Reseña">Reseña</a></li>
                             <li><a href="/Contacto">Contacto</a></li>                            
                             <li class="call-btn button gradient-bg mt-3 mt-md-0">
-                                <a class="d-flex justify-content-center align-items-center" href="#"><img src="images/emergency-call.png"> +57 322 585 1559</a>
+                                <a class="d-flex justify-content-center align-items-center" href="tel:+573225851559"><img src="images/emergency-call.png"> +57 322 585 1559</a>
                             </li>
                         </ul>
                     </nav><!-- .site-navigation -->
@@ -33,7 +33,7 @@
 
     <div class="swiper-container hero-slider">
         <div class="swiper-wrapper">
-            <div class="swiper-slide hero-content-wrap" style="background-image: url('images/Ginecología-y-Obstetricia-Lanzarote.jpg')">
+            <div class="swiper-slide hero-content-wrap" style="background-image: url('images/2731892.jpg')">
                 <div class="hero-content-overlay position-absolute w-100 h-100">
                     <div class="container h-100">
                         <div class="row h-100">
