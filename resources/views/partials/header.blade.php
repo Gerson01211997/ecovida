@@ -33,7 +33,7 @@
 
     <div class="swiper-container hero-slider">
         <div class="swiper-wrapper">
-            <div class="swiper-slide hero-content-wrap" style="background-image: url('images/2731892.jpg')">
+            <div class="swiper-slide hero-content-wrap" style="background-image: url('images/2731892.jpg') ">
                 <div class="hero-content-overlay position-absolute w-100 h-100">
                     <div class="container h-100">
                         <div class="row h-100">
