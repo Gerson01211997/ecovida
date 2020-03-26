@@ -72,12 +72,9 @@
                         <div class="col-12 col-md-6">
                             <p style="text-align:justify">Es asi que hoy <strong>CENTRO ESPECIALIZADO ECOVIDA LTDA</strong>, cuenta con perinatologos de las mejores calidades y cualidades humanas y profesionales  que ofrecen sus servicios, realizando procedimientos avanzados con tecnología de punta que garantiza una intervención efectiva y de calidad. <br>
 
-                            La proyección es a 2020 contar con dos unidades de medicina perinatal que permita ampliar el rango de acción de la empresa y atender a un mayor número de maternas, consolidando el gran propósito de los fundadores de ECOVIDA LTDA de ser un referente en la región caribe,  dando grandes resultados en salud, impactando  exitosamente los indicadores de salud materno fetal.
-</p>
+                            La proyección es a 2020 contar con dos unidades de medicina perinatal que permita ampliar el rango de acción de la empresa y atender a un mayor número de maternas, consolidando el gran propósito de los fundadores de ECOVIDA LTDA de ser un referente en la región caribe,  dando grandes resultados en salud, impactando  exitosamente los indicadores de salud materno fetal. </p>
                         </div>
-                    </div>
-
-                   
+                    </div>                   
                 </div>
             </div>
         </div>
@@ -190,14 +187,14 @@
                             <ul>
                                 <li class="col-12">Tipificación Para VPH </li>
                             </ul>
-                            <ul>
+                            <!-- <ul>
                                 <li class="col-12">Escisión De Polipo En Cuello Uterino </li>
-                            </ul>
+                            </ul> -->
                         </p>
                             
                         </div>
 
-                        <h3 class="entry-title d-flex justify-content-between align-items-center">Procedimiento De Medicina Perinatal <span class="arrow-r"></span></h3>
+                        <h3 class="entry-title d-flex justify-content-between align-items-center">Procedimiento De Medicina Materno Fetal <span class="arrow-r"></span></h3>
                         <div class="entry-content">
                             <p style="text-align:justify"><ul>
                                 <li class="col-12">Amniocentesis  Diagnóstica</li>
@@ -249,6 +246,16 @@
                             <ul>
                                 <li class="col-12">Monitoreo Fetal Anteparto</li>
                             </ul>
+                            <ul>
+                                <li class="col-12">Ecografía 4D y 3D</li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Ecografía de Tamizaje para Preclampsia</li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Eco Doopler de Inserción Placentaria</li>
+                            </u>
+
                             </p>
                         </div>
                         <h3 class="entry-title d-flex justify-content-between align-items-center">Prevencion En Planificacion Familiar<span class="arrow-r"></span></h3>
@@ -261,6 +268,145 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="faq-stuff">
+        <div class="container">
+        <div style="color:white"   class="quality-services">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2>Jornadas Extramurales</h2>
+
+                    <div class="row">
+                    <div class="col-12 col-lg-6 mb-5 mb-lg-0">
+                    <div class="accordion-wrap type-accordion">
+                        <h3 class="entry-title d-flex justify-content-between align-items-center active">Servicios Extramurales <span class="arrow-r"></span></h3>
+
+                        <div class="entry-content">
+                            
+                            <ul>
+                                <li class="col-12">Ginecología y Obstetrícia</li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Nutrición y Dietética </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Psicología </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Ecografía Obstétrica Transvaginal  </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Ecografía Obstétrica Transabdominal </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Perfil Biofísico </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Cervicometría </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Ecografía Ginecológica Transabdominal </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Inserción y retiro de implante Subdérmico (IMPLANON) </li>
+                            </ul>
+                            <!-- <ul>
+                                <li class="col-12">Escisión De Polipo En Cuello Uterino </li>
+                            </ul> -->
+                        </p>
+                      
+                            
+                        </div>
+                    </div>
+                    <div class="accordion-wrap type-accordion">
+                        <h3 class="entry-title d-flex justify-content-between align-items-center active">Servicio Pedriatría (Extramurales) <span class="arrow-r"></span></h3>
+
+                        <div class="entry-content">
+                            
+                            <ul>
+                                <li class="col-12">Consulta de primera vez por Pedriatría</li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Consulta de control por Pediatría </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="accordion-wrap type-accordion">
+                        <h3 class="entry-title d-flex justify-content-between align-items-center active">Municipios Beneficiados <span class="arrow-r"></span></h3>
+
+                        <div class="entry-content">
+                            
+                            <ul>
+                                <li class="col-12">Sincelejo</li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">La Unión </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">San Marcos </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Sampués  </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Ovejas </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Los Palmitos </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Tolú </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Toluviejo </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Colosó </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Chalán </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">San Onofre </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Corozal </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Betulia </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Sincé </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Galeras </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">San Pedro </li>
+                            </ul>
+                            <ul>
+                                <li class="col-12">Morroa </li>
+                            </ul>
+
+                            <!-- <ul>
+                                <li class="col-12">Escisión De Polipo En Cuello Uterino </li>
+                            </ul> -->
+                        </p>
+                      
+                            
+                        </div>
+                    </div>
+                </div>
+
+                        <div class="col-12 col-md-6">
+                            <p style="text-align:justify; color:white">Teniendo en cuenta que uno de nuestros objetivos, es realizar búsqueda activa de las gestantes en las zonas rurales y apartadas de los cascos urbanos, en donde se presentan los mayores porcentajes de muertes por falta de oportunidad en la atención y de orientación en los controles prenatales, se ha consolidado a lo largo de estos años, una logística robusta que nos permite llegar hasta estos lugares y realizar jornadas como un aporte fundamental a la salud Materna y disminuyendo las barreras de acceso a la población rural, ECOVIDA LTDA, hace presencia en 16 Municipios del Departamento de Sucre, a través, de Jornadas Extramurales con los servicios de: </p>
+                    </div>                   
+                </div>
+            </div>
+        </div>
+    </div>
         </div>
     </div>
 
