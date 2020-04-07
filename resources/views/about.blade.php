@@ -128,7 +128,7 @@
                             Ginecológicos, Obstétricos & Maternos Fetales,  promoviendo la seguridad en nuestros procesos,
                             actuando con racionalidad técnico-científica, desarrollo del talento humano y  responsabilidad social. 
                         </div>
-                        <h3 class="entry-title d-flex justify-content-between align-items-center">Estados Financieros <span class="arrow-r"></span></h3>
+                        <h3 class="entry-title d-flex justify-content-between align-items-center">Rendición de cuentas <span class="arrow-r"></span></h3>
                         <div class="entry-content">
                        <a target="_blank" href="{{asset('Documentos/ESTADOS-FINANCIEROS-AÑO2018-ECOVIDA-LTDA.pdf')}}">
                          <button style="width:80px" type="button" class="btn btn-success">
