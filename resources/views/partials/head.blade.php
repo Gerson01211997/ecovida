@@ -12,7 +12,7 @@
 
     <!-- Swiper CSS -->
     <link rel="stylesheet" href="{{ URL::asset('css/swiper.min.css') }}">
-
+    
     <!-- Styles -->
     <link rel="stylesheet" href="{{ asset('style.css') }} ">
     <script src="{{ asset('js/custom.js') }} "></script>
@@ -22,7 +22,8 @@
     <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
     <link rel="stylesheet" href="demo/css/demo.css"> 
     <script src="http://code.jquery.com/jquery-latest.js"></script>
-    <link rel="stylesheet" href="src/jquery.custombox.css">
+    
+    <link rel="stylesheet" href="src/custombox.min.css">
     <link rel="stylesheet" href="{{ asset('css/jquery-ui.css') }}">
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

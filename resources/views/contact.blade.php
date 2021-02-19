@@ -23,7 +23,7 @@
                                             <li><a href="/Contacto">Contacto</a></li>
         
                                         <li class="call-btn button gradient-bg mt-3 mt-md-0">
-                                            <a class="d-flex justify-content-center align-items-center" href="#"><img src="images/emergency-call.png"> +34 586 778 8892</a>
+                                            <a class="d-flex justify-content-center align-items-center" href="#"><img src="images/emergency-call.png"> +57 322 585 1559</a>
                                         </li>
                                     </ul>
                                 </nav><!-- .site-navigation -->
@@ -85,7 +85,26 @@
                 </div>
 
                 <div class="col-12">
-                    <input type="submit" name="" value="Enviar mensaje" class="button gradient-bg">
+                <button type="button" class="button gradient-bg" data-toggle="modal" id="btnModal_1" >Enviar </button>
+                                    
+                                    <div id="tvesModal_1" class="modalContainer">
+                                        <div class="modal-content">                                                
+                                            <h2 style="border-radius:10px">¡Atención!</h2>
+                                            <p> Lamentamos los incovenientes, en el momento no se puede usar este formulario, te invitamos a comunicarte por los siguientes canales:<br>
+                                            <strong>Teléfonos:</strong> 2714814<br>         
+                                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +57 322 585 1559<br>                                   
+                                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +57 3106323903<br>
+                                            <strong>Correos:</strong>  info@ipsecovida.com.co<br>
+                                               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; citasyadmisionesecovida1@hotmail.com<br>
+                                               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; citasyadmisionesecovida2@hotmail.com<br>
+                                               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; callcenterecovida@gmail.com<br>
+                                            <strong>Dirección:</strong> Calle 17 No. 16A - 39 | Sincelejo, Sucre<br><br>
+                                            <strong>Nota:</strong><br>
+                                                Si su solicitud es <strong>administrativa</strong>, favor contactarnos a la linea número 3208151892 y al correo electrónico admonipsecovida@hotmail.com, para sus </strong>Peticiones, Quejas, Reclamos, Sugerencias o Felicitaciones</strong>, nos puede contactar a través de nuestra cuenta siauecovida@gmail.com.
+                                            </p>                                                
+                                        </div>
+                                    </div>
+                    
                 </div>
             </div><!-- row -->
         </div>

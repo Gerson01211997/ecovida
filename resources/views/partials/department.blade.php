@@ -19,7 +19,7 @@
                                 </div>
 
                                 <footer class="entry-footer">
-                                    <a href="/Servicios/#tab_3"  id="fall">Leer más</a>
+                                    <a href="/Servicios"  id="fall">Leer más</a>
                                 </footer>
                             </div>
                         </div>
@@ -37,7 +37,7 @@
                                     </div>
 
                                     <footer class="entry-footer">
-                                        <a href="#">Leer más</a>
+                                        <a href="/Servicios">Leer más</a>
                                     </footer>
                                 </div>
                             </div>
@@ -55,7 +55,7 @@
                                     </div>
 
                                     <footer class="entry-footer">
-                                        <a href="#">Leer más</a>
+                                        <a href="/Servicios">Leer más</a>
                                     </footer>
                                 </div>
                             </div>
@@ -73,7 +73,7 @@
                                     </div>
 
                                     <footer class="entry-footer">
-                                        <a href="#">Leer más</a>
+                                        <a href="/Servicios">Leer más</a>
                                     </footer>
                                 </div>
                             </div>
@@ -91,7 +91,7 @@
                                     </div>
 
                                     <footer class="entry-footer">
-                                        <a href="#">Leer más</a>
+                                        <a href="/Servicios">Leer más</a>
                                     </footer>
                                 </div>
                             </div>
@@ -109,7 +109,7 @@
                                     </div>
 
                                     <footer class="entry-footer">
-                                        <a href="#">Leer más</a>
+                                        <a href="/Servicios">Leer más</a>
                                     </footer>
                                 </div>
                             </div>

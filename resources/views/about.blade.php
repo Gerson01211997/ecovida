@@ -64,7 +64,7 @@
 
                     <p style="text-align: justify">El Centro Especializado Ecovida LTDA es una entidad de que Ofrece a la mujer  los servicios de 
                         Consultas de Ginecología, Ginecoobstetricia, Materno Perinatal, Nutrición, psicología, 
-                        Medicina General, planificación familiar, (inserción y retiro de Implante Subdérmicos), }
+                        Medicina General, planificación familiar, (inserción y retiro de Implante Subdérmicos),
                         así mismo, ofrecemos los servicios de patología cervical. Siendo nuestro principal objetivo la  
                         Mujer,  nos enfocamos en su etapa Preconcepcional, Concepcional, Materno Perinatal integral con
                          énfasis en el binomio Madre e hijo. </p>
@@ -100,11 +100,9 @@
 
                         <h3 class="entry-title d-flex justify-content-between align-items-center">Nuestra Visión <span class="arrow-r"></span></h3>
                         <div class="entry-content">
-                            <p style="text-align:justify">Seremos en el año 2022, una IPS reconocida en la región, por su compromiso
-                                 con la calidad y humanización de servicios, con alto sentido de 
-                                 responsabilidad y respeto por nuestros pacientes, con tecnología de 
-                                 avanzada y un talento humano comprometido con la salud y seguridad de 
-                                 nuestros pacientes a través del mejoramiento continuo.
+                            <p style="text-align:justify">Seremos en 2025, una Ips reconocida en la región,  por su compromiso con la calidad y
+                             humanización de servicios, con alto sentido de responsabilidad y respeto por nuestros pacientes, con tecnología de avanzada y 
+                             un talento humano comprometido con la salud y seguridad de nuestros pacientes a través del mejoramiento continúo.
                             </p>
                         </div>
                         <h3 class="entry-title d-flex justify-content-between align-items-center">Principios y Valores Corporativos <span class="arrow-r"></span></h3>
@@ -130,6 +128,22 @@
                             Ginecológicos, Obstétricos & Maternos Fetales,  promoviendo la seguridad en nuestros procesos,
                             actuando con racionalidad técnico-científica, desarrollo del talento humano y  responsabilidad social. 
                         </div>
+                        <h3 class="entry-title d-flex justify-content-between align-items-center">Rendición de cuentas <span class="arrow-r"></span></h3>
+                        <div class="entry-content">
+                       <a target="_blank" href="{{asset('Documentos/ESTADOS-FINANCIEROS-AÑO2018-ECOVIDA-LTDA.pdf')}}">
+                         <button style="width:80px" type="button" class="btn btn-success">
+                           <span class="btn-inner--icon"><i class="fa fa-arrow-circle-down"></i></span>
+                           <span class="btn-inner--text">2018</span>
+                         </button>
+                      </a> 
+                       <a target="_blank" href="{{asset('Documentos/ESTADOS FINANCIEROS AÑO 2019.pdf')}}">
+                          <button style="width:80px" type="button" class="btn btn-primary">
+                            <span class="btn-inner--icon"><i class="fa fa-arrow-circle-down"></i></span>
+                            <span class="btn-inner--text">2019</span>
+                         </button>
+                      </a>         
+                      
+                      </div>
                     </div>
                 </div>
 
