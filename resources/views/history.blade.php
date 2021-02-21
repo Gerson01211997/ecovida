@@ -80,7 +80,7 @@
                     <img class="responsive" src="images/about.jpg" alt="">
                 </div>
                 <div class="col-12 col-lg-6">  
-                    <p style="text-align: justify">Por todo lo anterior, a lo largo de estos años se ha conformado un EQUIPO de Especialistas altamente calificados, con el objeto de atender y satisface ñas necesidades de todas nuestras usuarias, además de construir una nueva sede ubicada en un excelente sitio de la ciudad, con instalaciones cómodas, acogedoras, modernas y acorde con los requisitos legales vigentes que aplican al sector salud, para la prestación del servicio con excelencia y calidad. Es así, como en el mes de febrero del año 2015, se da inicio a la prestación de servicios y atención de usuarias en nuestra nueva sede, ña cual cuenta con zona de parqueo, tres (03) consultorio para ultrasonido, una (01) sala de espera, área de archivo, oficinas administrativas, entre otras. </p>  
+                    <p style="text-align: justify">Por todo lo anterior, a lo largo de estos años se ha conformado un EQUIPO de Especialistas altamente calificados, con el objeto de atender y satisfacer las necesidades de todas nuestras usuarias, además de construir una nueva sede ubicada en un excelente sitio de la ciudad, con instalaciones cómodas, acogedoras, modernas y acorde con los requisitos legales vigentes que aplican al sector salud, para la prestación del servicio con excelencia y calidad. Es así, como en el mes de febrero del año 2015, se da inicio a la prestación de servicios y atención de usuarias en nuestra nueva sede, ña cual cuenta con zona de parqueo, tres (03) consultorio para ultrasonido, una (01) sala de espera, área de archivo, oficinas administrativas, entre otras. </p>  
                     <p style="text-align: justify">En la actualidad, nuestro equipo de trabajo está constituido de manera interdisciplinaria, cuenta con la experiencia y los recursos necesarios para brindar un servicio con calidad humana y seguridad a las gestantes de la región; trabajamos como siempre, pensando con el Corazón de mamá </p>                  
                 </div>
 
@@ -93,7 +93,7 @@
 </div>
     
 
-    @include('partials/subscribe')
+    <!-- @include('partials/subscribe') -->
 
     @include('partials/footer')
 

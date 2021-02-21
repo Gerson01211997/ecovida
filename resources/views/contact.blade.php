@@ -61,7 +61,7 @@
     
     @include('partials/boxes')
 
-    <div class="contact-form">
+    <!-- <div class="contact-form">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -70,12 +70,14 @@
 
                 <div class="col-12  col-md-4">
                     <input type="text" placeholder="Nombre">
-                </div><!-- col-4 -->
+                </div> -->
+                <!-- col-4 -->
 
-                <div class="col-12 col-md-4">
+                <!-- <div class="col-12 col-md-4">
                     <input type="email" placeholder="Correo">
-                </div><!-- col-6 -->
-
+                </div> -->
+                <!-- col-6 -->
+<!-- 
                 <div class="col-12 col-md-4">
                     <input type="text" placeholder="Asunto">
                 </div>
@@ -106,9 +108,11 @@
                                     </div>
                     
                 </div>
-            </div><!-- row -->
-        </div>
-    </div><!-- contact-form -->
+            </div> -->
+            <!-- row -->
+        <!-- </div>
+    </div> -->
+    <!-- contact-form -->
 
     <div class="container">
         <div class="row">
@@ -119,7 +123,7 @@
             </div>
         </div>
     </div>
-    @include('partials/subscribe')
+    <!-- @include('partials/subscribe') -->
 
     @include('partials/footer')
 

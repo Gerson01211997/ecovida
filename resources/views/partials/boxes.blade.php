@@ -6,7 +6,7 @@
                         <h2 class="d-flex align-items-center" >Horario</h2>
 
                         <ul class="p-0 m-0">
-                            <li>Lunes - Viernes <span>7:30 AM - 6:00 PM </span></li>
+                            <li>Lunes - Viernes <span>7:30 AM - 5:00 PM </span></li>
                             <li>Sabado <span>8:00 AM - 11:00 AM </span></li>
                             <!-- <li>Saturday <span>9.30 - 17.00</span></li>
                             <li>Sunday <span>9.30 - 15.00</span></li> -->
@@ -31,33 +31,22 @@
                         <h2 class="d-flex align-items-center" >Pedir cita</h2>
 
                         <form class="d-flex flex-wrap justify-content-between">
-                            <select class="select-department">
-                                <option value="value1">Seleccione Especialidad</option>
-                                <option value="value2">Select Department 1</option>
-                                <option value="value3">Select Department 2</option>
-                            </select>
-
-                            <select class="select-doctor">
-                                <option>Seleccione Doctor</option>
-                                <option>Select Doctor 1</option>
-                                <option>Select Doctor 2</option>
-                            </select>
-
-                            <input type="text" placeholder="Nombre">
-
-                            <input type="number" placeholder="Numero de telefono">
-                            <input type="text" placeholder="Nombre">
-
-                            <input type="number" placeholder="Numero de telefono">
+                          <p style="font-size:15px">
+                          <strong>Correos:</strong>  callcenterecovida@gmail.com<br>
+                                                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   citasyadmisionesecovida1@hotmail.com<br>
+                                                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   citasyadmisionesecovida2@hotmail.com<br>
+                          </p>
                             
 
-                            <button type="button" class="button gradient-bg" data-toggle="modal" id="btnModal" >Enviar </button>
+                            <button type="button" class="button gradient-bg" data-toggle="modal" id="btnModal" >Ver más información </button>
                                     
                                         <div id="tvesModal" class="modalContainer">
-                                            <div class="modal-content">                                                
+                                            <div class="modal-content" style="width: 100% !important;">                                                
                                                 <h2 style="border-radius:10px; font-size: center;">¡Atención!</h2>
                                                 <p> Lamentamos los incovenientes, en el momento no se puede usar este formulario, te invitamos a comunicarte por los siguientes canales:<br>
-                                                <strong>Teléfonos:</strong> 2714814<br>         
+                                                <strong>Teléfonos:</strong> 2714814<br>
+                                                     
+                                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 0353198847<br>     
                                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +57 322 585 1559<br>                                   
                                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +57 3106323903<br>
                                                 <strong>Correos:</strong>  info@ipsecovida.com.co<br>
