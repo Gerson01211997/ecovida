@@ -221,7 +221,7 @@
         </div>
     </div>
 
-    @include('partials/subscribe')
+    <!-- @include('partials/subscribe') -->
 
     @include('partials/footer')
 
