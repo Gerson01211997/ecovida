@@ -175,7 +175,7 @@
     </div>
     
 </div>
-    <div class="medical-team">
+    <!-- <div class="medical-team">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -219,7 +219,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- @include('partials/subscribe') -->
 
