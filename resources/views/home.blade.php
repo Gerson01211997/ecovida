@@ -10,11 +10,11 @@
 
     @include('partials/department')
 
-    @include('partials/testimonials')
+    <!-- Aquí va un include (testimonials) -->
 
-    @include('partials/articles')
+    <!-- @include('partials/articles') -->
 
-    @include('partials/subscribe')
+    <!-- @include('partials/subscribe') -->
 
     @include('partials/footer')
 

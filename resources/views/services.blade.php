@@ -411,7 +411,7 @@
     </div>
 
     <br><br>
-    @include('partials/subscribe')
+    <!-- @include('partials/subscribe') -->
 
     @include('partials/footer')
 
