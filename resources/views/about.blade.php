@@ -141,7 +141,13 @@
                             <span class="btn-inner--icon"><i class="fa fa-arrow-circle-down"></i></span>
                             <span class="btn-inner--text">2019</span>
                          </button>
-                      </a>         
+                      </a>      
+                      <a target="_blank" href="{{asset('Documentos/ESTADOS-FINANCIEROS-AÑO-2020.pdf')}}">
+                         <button style="width:80px" type="button" class="btn btn-success">
+                           <span class="btn-inner--icon"><i class="fa fa-arrow-circle-down"></i></span>
+                           <span class="btn-inner--text">2020</span>
+                         </button>
+                      </a>    
                       
                       </div>
                     </div>
